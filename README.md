@@ -7,6 +7,7 @@ I am also interested in **UI/UX design** concepts and believe I can be a valuabl
 
 **Contact**
 -Linkedin: https://www.linkedin.com/in/nemanja-antonijevic-6baabb2a2/
+<br>
 -Mail: antonijevicnemanjaa@gmail.com
 
 
