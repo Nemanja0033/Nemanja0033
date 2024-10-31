@@ -14,6 +14,6 @@ With an **advanced understanding of JavaScript** (Closures, Asynchronous Program
 
 *All my projects showcase my knowledge and work in **frontend development**. My highlighted projects particularly reflect my **ideas and vision** for web development.*
 
-**Contact**:
+**Contact me**:
 - **LinkedIn**: [linkedin.com/in/nemanja-antonijevic-6baabb2a2](https://www.linkedin.com/in/nemanja-antonijevic-6baabb2a2/)
 - **Email**: antonijevicnemanjaa@gmail.com
