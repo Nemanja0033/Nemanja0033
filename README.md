@@ -1,6 +1,6 @@
 # Welcome to My GitHub!
 
-Hello! I’m **Nemanja**, a **certified frontend developer** and **coding enthusiast** open to job opportunities and new challenges. I stay up-to-date with the latest frontend technologies and am eager to continue honing my skills. 
+Hello! I’m **Nemanja**, a **certified frontend developer** and **coding enthusiast** open to job opportunities and new challenges. I stay up-to-date with the latest frontend technologies and am eager to continue honing my skills. I am committed to writing clean and maintainable code.
 
 My skills:
 - ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
