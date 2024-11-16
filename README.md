@@ -10,7 +10,7 @@ My skills:
 - ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) 
 - ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-FFA500?style=for-the-badge&logo=figma&logoColor=white)
 
-With an **advanced understanding of JavaScript** (Closures, Asynchronous Programming, OOP). I am also interested in **UI/UX design** concepts and believe I can be a valuable asset to your team.
+With an **advanced understanding of JavaScript** and  **TypeScript**. I am also interested in **UI/UX design** concepts and believe I can be a valuable asset to your team.
 
 *All my projects showcase my knowledge and work in **frontend development**. My highlighted projects particularly reflect my **ideas and vision** for web development.*
 
