@@ -1,32 +1,19 @@
 # Welcome to My GitHub!
 
-Hello! I’m **Nemanja**, a **certified frontend developer** and **coding enthusiast** open to job opportunities and new challenges. I stay up-to-date with the latest frontend technologies and am eager to continue honing my skills. I am committed to writing clean and maintainable code.
+## 🚀 About Me
+Hello! I’m **Nemanja**, a **certified frontend developer** and **coding enthusiast** passionate about creating modern, user-friendly web applications. I am always open to new job opportunities and challenges that allow me to grow and contribute to innovative projects.
+
+I have an **advanced understanding of JavaScript** and **TypeScript**, which I use to build clean, maintainable, and visually appealing applications. I stay up-to-date with the latest frontend technologies and actively improve my skills. Additionally, I have a strong interest in **UI/UX design**, believing that a seamless user experience is essential for any successful product.
+
+With a dedication to quality and continuous learning, I am confident that I can be a valuable asset to your team.
 
 ## 🛠 Skills
 
-### **Languages**
-- ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-- ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-
-### **Frameworks and Libraries**
-- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-- ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-- ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-
-### **Other Skills**
-- ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-FFA500?style=for-the-badge&logo=figma&logoColor=white)
-- Responsive Web Design
-- Version Control (Git)
-- State Management (Redux, Context API)
-
-### **Soft Skills**
-- Strong communication and collaboration
-- Problem-solving and analytical thinking
-- Adaptability and eagerness to learn
-- Attention to detail
-
-## 🚀 About Me
-With an **advanced understanding of JavaScript** and **TypeScript**, I am passionate about building user-friendly and visually appealing web applications. I’m also interested in **UI/UX design** concepts and believe I can be a valuable asset to your team.
+| **Languages**                            | **Frameworks & Libraries**                 | **Other Skills**                           | **Soft Skills**                          |
+|------------------------------------------|--------------------------------------------|--------------------------------------------|------------------------------------------|
+| ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) | ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white) | ![Collaboration](https://img.shields.io/badge/Collaboration-0078D4?style=for-the-badge&logo=microsoft-teams&logoColor=white) Teamwork |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) | ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white) | ![Problem-Solving](https://img.shields.io/badge/Problem_Solving-4CAF50?style=for-the-badge&logo=android&logoColor=white) Analytical thinking |
+|                                           | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) | ![Redux](https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white) | ![Adaptability](https://img.shields.io/badge/Adaptability-FFDD00?style=for-the-badge&logo=minutemailer&logoColor=black) Flexibility |
 
 *All my projects showcase my knowledge and work in **frontend development**. My highlighted projects particularly reflect my **ideas and vision** for web development.*
 
