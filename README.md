@@ -10,7 +10,7 @@ With a dedication to quality and continuous learning, I am confident that I can 
 -*All my projects showcase my knowledge and work in **frontend development**. My highlighted projects particularly reflect my **ideas and vision** for web development.*
 
 ##Skills
- ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
+ -![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) 
  ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white) 
  ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white) 
@@ -18,4 +18,4 @@ With a dedication to quality and continuous learning, I am confident that I can 
  ![UI/UX Design](https://img.shields.io/badge/UI%2FUX-Design-FFA500?style=for-the-badge&logo=figma&logoColor=white)
 
 ## Contact Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nemanja-antonijevic-6baabb2a2/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonijevicnemanjaa@gmail.com)
+-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nemanja-antonijevic-6baabb2a2/)  [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:antonijevicnemanjaa@gmail.com)
