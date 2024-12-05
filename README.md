@@ -1,11 +1,9 @@
 # Welcome to My GitHub!
 
 ## 🚀 About Me
-Hello! I’m **Nemanja**, a **certified frontend developer** and **coding enthusiast** passionate about creating modern, user-friendly web applications. I am always open to new job opportunities and challenges that allow me to grow and contribute to innovative projects.
+Hello! I’m **Nemanja**, a **certified frontend developer** and **coding enthusiast** passionate about creating modern, user-friendly web applications. I am currently open to new job opportunities and challenges that allow me to grow and contribute to innovative projects.
 
-I have an **advanced understanding of JavaScript** and **TypeScript**, which I use to build clean, maintainable, and visually appealing applications. I stay up-to-date with the latest frontend technologies and actively improve my skills. Additionally, I have a strong interest in **UI/UX design**, believing that a seamless user experience is essential for any successful product.
-
-With a dedication to quality and continuous learning, I am confident that I can be a valuable asset to your team.
+I have an **advanced understanding of JavaScript** and **TypeScript**, which I use to build clean, maintainable, and visually appealing applications.
 
 -*All my projects showcase my knowledge and work in **frontend development**. My highlighted projects particularly reflect my **ideas and vision** for web development.*
 
